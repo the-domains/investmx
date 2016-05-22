@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[investMX]]></title>
+        <description><![CDATA[investMX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 May 2016 21:44:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edabcedf-61ef-4d7c-9244-665a8ef9090f.jpg">]]></description>
+            <link>undefinedinvierte-en-remates-hipotecarios/index.html</link>
+            <guid isPermaLink="false">9f34cffb-e57f-4b94-9cad-2f1e4abd72b3</guid>
+            <pubDate>Sun, 22 May 2016 21:44:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
